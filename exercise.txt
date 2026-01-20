@@ -1,0 +1,17 @@
+cd
+
+pwd
+
+mkdir
+
+cp
+
+mv
+
+rm
+
+grep
+
+chmod
+
+sudo
